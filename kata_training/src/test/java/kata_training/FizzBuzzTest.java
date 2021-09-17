@@ -30,7 +30,6 @@ public class FizzBuzzTest {
 		String response = fizzBuzz.play(0);
 		assertEquals("Fizz", response);
 	}
-
 	@Test
 	public void testBuzz() {
 		String response = fizzBuzz.play(5);

@@ -7,6 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Kata Training</name>
 	<description>Kata training project	</description>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
